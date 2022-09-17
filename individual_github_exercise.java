@@ -6,6 +6,7 @@ public class individual_github_exercise {
     public static void main(String args[])
     {
         //7 3 4 5 2 1
+        //inline comment for recording.
         System.out.println("Enter 6 integers to form an array:");
         Scanner scr = new Scanner(System.in);
         int[] array = new int[6];
